@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-omni/commit/62876f40ac77f14dccc4ab9d332e9d5110875ab9",
       "git:hexsha": "62876f40ac77f14dccc4ab9d332e9d5110875ab9",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T16:57:20.993355+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/vllm-omni/commit/9fe730a44b281e636d5770bf574c2f0db62ee016",
